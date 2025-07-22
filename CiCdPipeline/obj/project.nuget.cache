@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7GHDY/k1fNE=",
+  "success": true,
+  "projectFilePath": "/Users/presidio/Desktop/Azure-CI-CD-Pipeline/CiCdPipeline/CiCdPipeline.csproj",
+  "expectedPackageFiles": [
+    "/Users/presidio/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/presidio/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
